@@ -68,8 +68,8 @@
  
 ### 方法四：Docker（NAS或VPS用户）
 
- - 可以精确控制任务运行时间，有三种办法：[docker办法一](https://github.com/lxk0301/scripts/tree/master/docker)、[docker办法二（和本地安装Node.js有点类似）](https://github.com/EvineDeng/jd-base)、[docker办法三](https://github.com/chinnkarahoi/jd-scripts-docker)
- - [环境变量](https://github.com/lxk0301/scripts/blob/master/githubAction.md#%E4%B8%8B%E6%96%B9%E6%8F%90%E4%BE%9B%E4%BD%BF%E7%94%A8%E5%88%B0%E7%9A%84-secrets%E5%85%A8%E9%9B%86%E5%90%88)
+ - 可以精确控制任务运行时间，有三种办法：[docker办法一](https://github.com/UENs99tLV3fw8IL4/jd-scripts-2hytblk3i/tree/master/docker)、[docker办法二（和本地安装Node.js有点类似）](https://github.com/EvineDeng/jd-base)、[docker办法三](https://github.com/chinnkarahoi/jd-scripts-docker)
+ - [环境变量](https://github.com/UENs99tLV3fw8IL4/jd-scripts-2hytblk3i/blob/master/githubAction.md#%E4%B8%8B%E6%96%B9%E6%8F%90%E4%BE%9B%E4%BD%BF%E7%94%A8%E5%88%B0%E7%9A%84-secrets%E5%85%A8%E9%9B%86%E5%90%88)
  
 #### 注：以上四种运行机制都是Node.js，故您需仔细阅读下面几点
 
